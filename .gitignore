@@ -1,0 +1,9 @@
+#Ignore binaries
+* 
+!/**/
+!*.*
+/*.out
+
+/*.o #C object files
+
+/*.gch #compiled header
